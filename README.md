@@ -1,1 +1,1 @@
-# -Snake-Byte
+# Snake-Byte
